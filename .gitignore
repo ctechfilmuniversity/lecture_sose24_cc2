@@ -1,0 +1,50 @@
+# Example .gitignore file
+# Configuration for C++ development
+
+# Prerequisites
+*.d
+*~
+
+/*/.DS_Store
+.DS_Store
+#.gitignore
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Directories
+obj/
+.vs/
+_ressources/
+
+# IDE project files
+*.sln
+*.vcxproj*
+*.xcodeproj/
+*.code-workspace
+*.xcconfig
+*.vscode
+*.plist
