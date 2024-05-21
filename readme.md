@@ -79,10 +79,10 @@ For CTech students there will be a grade. The grade will be based on the points 
 * **50% - Homework assignments (10 pts in total)**
   * There will be 5 homework assignments that can be worked on individually or in a group (work distribution must be clearly defined by the group!)
   * For each submitted assignment, you can collect 3 points.
-  * **Deadline**: You can submit session assignments up until July 31st. For late submissions, the points will be reduced by 15%.
+  * **Deadline**: You can submit session assignments up until July 31st. For late submissions, the total points will be reduced by 15%.
 * **50% - Final assignment (10 pts in total)**
   * The final assignment will be the development of a C++ application, you can collect 10 points for the final assignment.
-  * **Deadline**: You can submit session assignments up until September 30th. For late submissions, the points will be reduced by 15%.
+  * **Deadline**: You can submit session assignments up until September 30th. For late submissions, the total points will be reduced by 15%.
   * **Requirements and distribution**:
       * Object-oriented system design (2 pts)
       * Use of an SDK (i.e., openFrameworks) (2 pt)
