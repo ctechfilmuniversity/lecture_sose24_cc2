@@ -1,7 +1,7 @@
 **Creative Coding II**
 
 Prof. Dr.-Ing. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*   
-Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
+Anna Brauwers | anna.s.brauwers@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
 
 
 ---
@@ -18,6 +18,9 @@ Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *
   - [Compiler \& Linker Errors](#compiler--linker-errors)
 - [Integrated Development Environments (IDE)](#integrated-development-environments-ide)
 - [Practical Exercises](#practical-exercises)
+  - [Command Line Build Commands](#command-line-build-commands)
+    - [macOS](#macos)
+    - [Windows](#windows)
 - [Summary](#summary)
 - [Reading Material](#reading-material)
 
@@ -176,32 +179,51 @@ See the [Setup Guide](./setup_guide.md) for more details.
 
 # Practical Exercises 
 
-We will look into 
+In class, we will look into the following aspects
 
 - the main.cpp file
 - building and executing the first C++ application on the command line
+- Makefiles to understand the concept of project files
 - building and executing the first C++ applications in an IDE
 
-To run your first program on the command line, here are the build commands
+The following sections summarize the build commands on the command line. 
 
-```c++
+## Command Line Build Commands
 
-// Open the command line (**terminal** on MacOS or **cmd** on 
-// Windows) and move to the folder where your code resides.
+### macOS
+Here are the build commands for macOS or Unix-like systems on the command line / terminal:
+
+```C++
+// Open a terminal on MacOS.
+// Move to the folder where your code resides.
 $ cd '/your/c++/dev/folder/path/' 
 
-// Now, compile the sources code on macOS
-// g++ or clang++ is the compiler you are using
+// Compile the source code using g++ or clang++
 $ g++ -o <name-you-want-to-give> main.cpp 
 
-// Now, compile the sources code on windows
-// g++ or clang++ is the compiler you are using
-$ g++ -o <name-you-want-to-give>.exe main.cpp
+//
+// or 
+$ clang++ -o <name-you-want-to-give> main.cpp 
 
-// Finally, run the program
-$ ./myprogram
+// Run the program
+$ ./<name-you-want-to-give>
+```
 
-````
+### Windows
+
+Building C++ applications on Windows is easiest using an IDE such as MS Visual Studio Community because the application comes with all necessary components. However, you can also use the command line. If you have downloaded and installed MS Visual Studio Community, start the `VS developer command prompt` or the `VS developer powershell` ([more details](https://learn.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022)) and follow the below commands. If you would like to use a Unix-like environment (in order to use, e.g., g++) you have to download and install an environment such as [cygwin](https://www.cygwin.com) or [MinGW-w64](https://www.mingw-w64.org).
+
+```C++
+// Open the developer command prompt on Windows.
+// Move to the folder where your code resides.
+$ cd `C:\your\c++\dev\folder\path\' 
+
+// Compile the source code using the vs compiler:
+$ cl -o <name-you-want-to-give>.exe main.cpp
+
+// Run the program
+$ .\<name-you-want-to-give>.exe
+```
 
 
 # Summary
@@ -227,5 +249,8 @@ $ ./myprogram
 
 **Advanced:** 
 
+- Makefiles
+  - [Learn Makefiles](https://makefiletutorial.com)
+  - [Makefiles vs Visual Studio Community](https://cognitivewaves.wordpress.com/makefiles/)
 - The [Compiler Explorer](https://gcc.godbolt.org) to play with different compilers
 - Michael Witt's [deep dive into compilation](../01_kick-off_setup_cli/additional_material/compilaton.md) (advanced!)
