@@ -26,5 +26,4 @@ int main()
     // The statement produces the string to be printed to the console window.
     // The function returns 0 to indicate it was completed successfully.
     std::cout << "Hello world!\n" << std::endl ; 
-    return 0;
 }

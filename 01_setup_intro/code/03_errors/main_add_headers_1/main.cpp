@@ -9,7 +9,7 @@ int main()
 {
     std::cout << "Hello world!\n" << std::endl ; 
 
-    std::cout << "Add 5 + 6 \n" << add(5,6) << std::endl;
+    std::cout << "Add 5 + 6 \n" << add(5,6) << endl;
 
     return 0;
 }
