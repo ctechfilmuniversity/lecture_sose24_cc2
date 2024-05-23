@@ -3,6 +3,7 @@
 # the components that are part of the build process, i.e. the include files, 
 # the object files, and the target that we are building together with the
 # compiler and linker specifications.
+
 # To use the Makefile, simply type `make` to the command line.
 
 # See also: https://makefiletutorial.com

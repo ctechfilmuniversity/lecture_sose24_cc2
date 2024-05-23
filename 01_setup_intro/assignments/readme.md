@@ -15,11 +15,15 @@ Form a team of two or maximium three to work on the assignments in a team. Creat
 
 ## 2 Assignment - Research | 1 pts
 
-Checkout the code folder and make sure you can build and understand all examples in the 01_main and 02_types_vars folders. In the 02_types_vars folder, checkout the code for TODO directives. Follow the directions and implement an example in your team. Checkout the scope_exercises.md file and follow the directions. 
+Checkout the code folder and make sure you can build and understand all examples in the 01_main and 02_types_vars folders. In the 02_types_vars folder, checkout the code for TODO directives. Follow the directions and implement an example in your team. Checkout the scope_exercises.md file and follow the directions there, too.
 
 ## 3 Assignment - Bug fixing | 1 pts
 
-Checkout the errors folder and try to compile each example. Errors will occur. Without checking the soluion right away try to fix the errors and document what was wrong.
+Checkout the errors folder and try to compile each example. Errors will occur. Without checking the soluion right away try to fix the errors and document what was wrong. 
+
+**NOTE to Windows users**: You cannot use the Makefiles right away. You have to create a new project in Visual Studio Community and insert the source files and folders according to the folder structure in the example. Then try to build the examples and fix the code errors.
+
+**NOTE to macOS users**: In order to use `Makefiles` and the `make command` on macOS you need to use the terminal, move to the corresponding folder in which the `Makefile` is located and type `make`.
 
 ## 4 Assignment - Creativity | 1 pts
 
