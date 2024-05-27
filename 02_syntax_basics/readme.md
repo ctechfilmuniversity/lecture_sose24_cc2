@@ -11,20 +11,21 @@ This is the second session of Creative Coding II with the following outline
 
 - Getting more into C++ language and syntax aspects
 - Practicing development with the command line
-- Understanding header and definition files and their relationship
+
 
 Students will learn about
-- Reviewing C++ syntax basics 
-- Static vs dynamic typing
+- More on C++ syntax basics 
+- Static vs dynamic typing, 
 - Built-in types and custom types
 - Functions, declaration, definition, paramters vs arguments 
 - Header files and cpp files
 
 Practical exercises will be about
 - Reading and writing files to the command line
-- Designing and implementing a small cli application 
+- Designing and implementing a small cli application
 
 Session materials:
 
 - [C++ Continued: Types and Syntax](./cpp_continued.md)
-- See the folders for more materials like slides, code examples, and assignements
+- [Coding exercises](./code/readme.md)
+- [Additional materials](./additional_material/)
