@@ -9,24 +9,57 @@ Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *
 
 The current directory contains the following content: 
 
-- 01_ascii_art folder: an exercise
-- examples folder: coding examples for you to check out 
+- **01_ascii_art folder**: practical exercise to work on
+- examples folder: optional coding examples for specific details 
 - solutions folder: solutions to the last homework assignment
 
 ## Ascii Art Exercises
 
 ### 1 Exercise
 
-Please check out the six different source code files in the ascii art folder, compile them one after the other and make sure you understand the code. Note down any questions. In class we will look into specific new functions and features that come with the examples such as reading and writing a *.txt file with CPP as well as learning about this class objectives. 
+Familiarize yourselves with the code examples.
+
+Check out the six different source code files in the ascii art folder, compile them one after the other and make sure you understand the code. Note down any questions. 
+
+In class we will look into specific new functions and features that come with the examples such as reading and writing a *.txt file with CPP as well as learning about variables, types, and functions. 
+
+--- 
 
 ### 2 Exercise
 
-Note down the different functionalities that come with the different examples (printing to cli, reading & writing files, animating an ascii art, etc.). Now think about how an application could work that contains all functionalities in one application. Discuss with your team mate(s) how this application should function and how it could be implemented. 
+Combine all functionalities in one application. 
 
+- Note down the individual functionalities that come with the different projects and group them in meaningful components (conceptual step). 
+- Setup a new command line application project in XCode or MS Visual Studio Community (the project will contain a main.cpp file)
+- Move all functions and functionalities to that main.cpp file
+- Compile and build the application
+- Re-structure the main function such that it allows to 
+  - read in an ascii file and print it or 
+  - print the blinking eye ascii art
+
+Review in class.
+
+--- 
 ### 3 Exercise 
 
-Create a new main.cpp file that contains one main function only. Move the rest of the functionality, all function declarations and function definitions to an ascii.h and ascii.cpp file. In main, create a sequence of function calls that are like a narrative and describe exactly what is happening in your application. Implement the application.
+Add structure and readability to your application; work together with your team mate.
+
+- Add two new files to your project:
+  - ascii.cpp
+  - ascii.h
+- Move all functionalities that are related to the ascii-art to these files. 
+- Re-arrange the functions in such a way that the main.cpp only contains the main function. 
+- Review the functions according to the following:
+  - functions do one thing and one thing only
+  - function names should be comprehensible and describe what the function is doing
+
+Review in class.
+
+--- 
 
 ### 4 Exercise
 
-Add the application to your Github's team repo.
+Discuss with your team mate how to turn this application in a more creative application. 
+
+- Conceive and implement an own idea.
+- Use GitHub as a development tool in your team (advanced and TBD in class)

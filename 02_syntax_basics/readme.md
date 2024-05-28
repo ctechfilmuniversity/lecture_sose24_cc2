@@ -10,22 +10,21 @@ Anna Brauwers | anna.s.brauwers@filmuniversitaet.de | Film University Babelsberg
 This is the second session of Creative Coding II with the following outline
 
 - Getting more into C++ language and syntax aspects
-- Practicing development with the command line
+- Development practice
 
 
 Students will learn about
-- More on C++ syntax basics 
-- Static vs dynamic typing, 
-- Built-in types and custom types
-- Functions, declaration, definition, paramters vs arguments 
-- Header files and cpp files
+- More on C++ syntax 
+- Static vs dynamic typing
+- Variables, types and function
+- Concept of declaration and definition
 
 Practical exercises will be about
-- Reading and writing files to the command line
 - Designing and implementing a small cli application
+
 
 Session materials:
 
-- [C++ Continued: Types and Syntax](./cpp_continued.md)
-- [Coding exercises](./code/readme.md)
+- [Script: C++ Continued on Types and Syntax](./cpp_continued.md)
+- [Practice: Coding exercise](./code/readme.md)
 - [Additional materials](./additional_material/)
