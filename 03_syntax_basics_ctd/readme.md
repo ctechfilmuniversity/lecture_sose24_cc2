@@ -25,6 +25,6 @@ Practical exercises will be about
 
 Session materials:
 
-- [Script: C++ Continued on Types and Syntax](./cpp_continued.md)
+- [Script: C++ Continued on Types and Syntax](../02_syntax_basics/cpp_continued.md)
 - [Practice: Coding examples and exercises](./code/readme.md)
 - [Additional materials](./additional_material/)
