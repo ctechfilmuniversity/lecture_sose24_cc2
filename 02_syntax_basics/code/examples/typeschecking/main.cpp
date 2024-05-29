@@ -7,6 +7,7 @@
 //
 
 #include <iostream>
+#include <string>
 
 
 
@@ -115,6 +116,7 @@ void printSizeOfManyTpyes()
     std::cout << "Size of float:\t\t" << sizeof(float) << " bytes" << std::endl;
     std::cout << "Size of double:\t\t" << sizeof(double) << " bytes" << std::endl;
     std::cout << "Size of long double:\t" << sizeof(long double) << " bytes" << std::endl;
+    std::cout << "Size of std::string:\t" << sizeof(std::string) << " bytes" << std::endl;
 
     std::cout << " \n " << std::endl;
 }
