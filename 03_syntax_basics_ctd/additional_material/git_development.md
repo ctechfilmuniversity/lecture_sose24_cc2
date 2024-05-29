@@ -7,28 +7,36 @@ Anna Brauwers | anna.s.brauwers@filmuniversitaet.de | Film University Babelsberg
 ---
 
 **Table of Contents**
-1. [Some Notes on Git Related Development](#some-notes-on-git-related-development)
-2. [Issues When Merging](#issues-when-merging)
+1. [Git and Github Basics](#git-and-github-basics)
+2. [Some Notes on Git Related Development](#some-notes-on-git-related-development)
+3. [Issues When Merging](#issues-when-merging)
+   1. [How to solve diverging branches when merging?](#how-to-solve-diverging-branches-when-merging)
       1. [Options to Reconcile Divergent Branches](#options-to-reconcile-divergent-branches)
       2. [How to Configure Git](#how-to-configure-git)
       3. [Overriding the Configured Default](#overriding-the-configured-default)
       4. [Example Commands](#example-commands)
-      5. [What `git rebase` Does](#what-git-rebase-does)
-      6. [Example Scenario](#example-scenario)
-      7. [Benefits of `git rebase`](#benefits-of-git-rebase)
-      8. [Risks and Considerations](#risks-and-considerations)
-      9. [Practical Usage](#practical-usage)
-      10. [Summary](#summary)
-      11. [Detailed Explanation](#detailed-explanation)
-          1. [1. Base Commit in Merging](#1-base-commit-in-merging)
-          2. [2. Base Commit in Rebasing](#2-base-commit-in-rebasing)
-      12. [Identifying the Base Commit](#identifying-the-base-commit)
-      13. [Importance of the Base Commit](#importance-of-the-base-commit)
-      14. [Practical Example](#practical-example)
-      15. [Summary](#summary-1)
-3. [Reading Material](#reading-material)
+   2. [What does `git rebase` mean?](#what-does-git-rebase-mean)
+      1. [What `git rebase` Does](#what-git-rebase-does)
+      2. [Example Scenario](#example-scenario)
+      3. [Benefits of `git rebase`](#benefits-of-git-rebase)
+      4. [Risks and Considerations](#risks-and-considerations)
+      5. [Practical Usage](#practical-usage)
+      6. [Summary](#summary)
+   3. [What is a `base commit`?](#what-is-a-base-commit)
+      1. [Detailed Explanation](#detailed-explanation)
+         1. [1. Base Commit in Merging](#1-base-commit-in-merging)
+         2. [2. Base Commit in Rebasing](#2-base-commit-in-rebasing)
+      2. [Identifying the Base Commit](#identifying-the-base-commit)
+      3. [Importance of the Base Commit](#importance-of-the-base-commit)
+      4. [Practical Example](#practical-example)
+      5. [Summary](#summary-1)
+4. [Reading Material](#reading-material)
 
 --- 
+
+# Git and Github Basics
+
+Please also refer to this overview in the first session's folder: [Github introduction](../../01_setup_intro/additional_material/github.md).
 
 # Some Notes on Git Related Development
 
@@ -42,7 +50,7 @@ Image reference: https://nvie.com/posts/a-successful-git-branching-model/
 
 The following information was generated with the help of ChatGPT. 
 
-Q: How to solve this problem that occurs when merging two branches that have diverged: 
+## How to solve diverging branches when merging?
 
 ```git
 hint: You have divergent branches and need to specify how to reconcile them.
@@ -157,7 +165,7 @@ Choose the method that best fits your workflow and team collaboration style.
 
 --- 
 
-Q: What does `git rebase` mean?
+## What does `git rebase` mean?
 
 A: In Git, `rebase` is a powerful feature that allows you to move or combine a sequence of commits to a new base commit. The primary purpose of rebasing is to create a linear, more understandable project history. It’s commonly used to integrate changes from one branch into another without creating a merge commit.
 
@@ -232,7 +240,7 @@ To perform a rebase, you can use the following commands:
 
 --- 
 
-Q: What is a `base commit`?
+##  What is a `base commit`?
 
 A: A base commit in Git is the commit from which a particular branch or set of commits diverges. It serves as the common ancestor between branches and is the starting point for comparison or operations like merging and rebasing.
 
