@@ -16,8 +16,9 @@ This is the second session of Creative Coding II with the following outline
 Students will learn about
 - More on C++ syntax 
 - Static vs dynamic typing
-- Variables, types and function
+- Variables, types and function: pass-by-value, pass-by-ref, pass-by-ptr
 - Concept of declaration and definition
+- A first glance at software design
 
 Practical exercises will be about
 - Designing and implementing a small cli application
