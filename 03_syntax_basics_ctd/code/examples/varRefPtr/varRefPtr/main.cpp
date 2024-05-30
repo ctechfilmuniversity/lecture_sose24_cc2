@@ -1,37 +1,32 @@
+// https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/
 
-#include<iostream>
+#include <iostream>
 
-int main () {
-
-
-    // First we declare and define an integer variable and check out what are references and pointers
-    // associated to it
-    int myAge = 45;
+int main()
+{
+    int x{ 5 };
+    int& ref { x };  // get a reference to x
+    int* ptr { &x }; // get a pointer to x
     
-   // int& myAgeRef;
-    std::cout << "myAge value: " << myAge <<  "  myAge address in memory: " << &myAge << std::endl;
-
-    int& myAgeRef2 = myAge;
+    // print the values
+    std::cout << x;
+    std::cout << ref;  // use the reference to print x's value (5)
+    std::cout << *ptr << '\n'; // use the pointer to print x's value (5)
     
-    std::cout << "myAgeRef2 value: " << myAgeRef2 <<  "  myAgeRef2 address in memory: " << &myAgeRef2 << std::endl;
+    // print the address values
+    std::cout << &x << "  ";
+    std::cout << &ref << "  ";  // use the reference to print x's value (5)
+    std::cout << ptr << '\n'; // use the pointer to print x's value (5)
 
-    int* myPtrToMyAge = nullptr;
-    
-    std::cout << "myPtrToMyAge value: " << myPtrToMyAge <<  "  myPtrToMyAge address in memory: " << &myPtrToMyAge << std::endl;
+    ref = 6; // use the reference to change the value of x
+    std::cout << x;
+    std::cout << ref;  // use the reference to print x's value (6)
+    std::cout << *ptr << '\n'; // use the pointer to print x's value (6)
 
-    myPtrToMyAge = &myAge;
-    
-    std::cout << "myPtrToMyAge value: " << *myPtrToMyAge <<  "  myPtrToMyAge address in memory: " << &myPtrToMyAge << std::endl;
-
-//    myPtrToMyAge = &myAgeRef2;
-//    std::cout << "myPtrToMyAge value: " << myPtrToMyAge <<  "  myPtrToMyAge address in memory: " << &myPtrToMyAge << std::endl;
-
-    
-    // Now we see what happens if we change the values
-    myAge = 567;
-    std::cout << "myAge value: " << myAge <<  "  myAge address in memory: " << &myAge << std::endl;
-    std::cout << "myAgeRef2 value: " << myAgeRef2 <<  "  myAgeRef2 address in memory: " << &myAgeRef2 << std::endl;
-    std::cout << "myPtrToMyAge value: " << myPtrToMyAge <<  "  myPtrToMyAge address in memory: " << &myPtrToMyAge << std::endl;
+    *ptr = 7; // use the pointer to change the value of x
+    std::cout << x;
+    std::cout << ref;  // use the reference to print x's value (7)
+    std::cout << *ptr << '\n'; // use the pointer to print x's value (7)
 
     return 0;
 }
