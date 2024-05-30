@@ -13,6 +13,8 @@ The current directory contains the following content:
 - examples folder: optional coding examples for specific details 
 - solutions folder: solutions to the last homework assignment
 
+--- 
+
 ## Ascii Art Exercises
 
 ### 1 Exercise
@@ -40,6 +42,9 @@ Combine all functionalities in one application.
 Review in class.
 
 --- 
+
+... to be continued in session 03
+
 ### 3 Exercise 
 
 Add structure and readability to your application; work together with your team mate.
@@ -48,7 +53,8 @@ Add structure and readability to your application; work together with your team 
   - ascii.cpp
   - ascii.h
 - Move all functionalities that are related to the ascii-art to these files. 
-- Re-arrange the functions in such a way that the main.cpp only contains the main function. 
+- Re-arrange the functions in such a way that the main.cpp only contains the main function. #
+- Make sure that you do not use global variables! See also [why they should be avoided](https://www.learncpp.com/cpp-tutorial/why-non-const-global-variables-are-evil/) in most cases.
 - Review the functions according to the following:
   - functions do one thing and one thing only
   - function names should be comprehensible and describe what the function is doing
@@ -57,7 +63,7 @@ Review in class.
 
 --- 
 
-### 4 Exercise
+### 4 Exercise / Homework Assignment
 
 Discuss with your team mate how to turn this application in a more creative application. 
 

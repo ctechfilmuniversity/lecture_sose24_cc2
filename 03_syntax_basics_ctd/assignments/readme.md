@@ -11,7 +11,7 @@ You need 10 assignment pts in total to collect 50% of the course pts and to pass
 
 ## 1 Assignment - Recap
 
-Each team, read the script and additional materials. Note down any questions that came up during recapping the material and lectures. Discuss with you team mate and bring open questions to the next class.
+Each team, read the script and additional materials. Note down any questions that came up during recapping the material and lectures. Use learncpp.com or other suggested reading materials to find answers to your questions. Discuss with your team mate and bring open questions to the next class.
 
 
 ## 2 Assignment - Github Development | 1 pts
