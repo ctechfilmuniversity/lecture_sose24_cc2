@@ -7,7 +7,7 @@
 * https://openprocessing.org/sketch/309044
 * @author aa_debdeb
 * @date 2016/02/24
-* Adapted for TBAG 2022 https://editor.p5js.org/abrennec/sketches/_v7-ESYb4
+* Adapted for TBAG 2022     
 */
 
 /*
