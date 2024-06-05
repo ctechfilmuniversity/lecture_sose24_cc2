@@ -1,7 +1,7 @@
 **Creative Coding II**
 
 Prof. Dr.-Ing. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*   
-Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
+Anna Brauwers | anna.s.brauwers@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
 
 ---
 
@@ -65,9 +65,10 @@ Build the error_sines examples and fix the errors. Discuss in your team what is 
 
 #### 4.1 CTechies
 
-Review example 05 mesh creator. This example is taken from opoenprocessing and p5.js. Open the links given in the code and run the examples. In your teams, discuss first without reading the code what is happening and think about how an implementation could look like. Take down notes for that.
+Review example 05 mesh creator. This example is taken from openprocessing and p5.js. Open the links given in the code and run the examples. In your teams, discuss first without reading the code what is happening and think about how an implementation could look like. Take down notes for that.
 
-Now, you can either try to implement your own idea given the application sketch or you can check the processing / js code and re-implement it with openFrameworks.
+- now, you can either try to implement your own idea given the application sketch 
+- or you can check the processing / js code and re-implement it with openFrameworks.
 
 #### 4.2 Non-CTechies
 
