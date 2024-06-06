@@ -14,6 +14,11 @@
 
  TODO: Implement the above example with openFrameworks
  
+ Checkout the
+ 
+ 
+ https://openframeworks.cc/documentation/graphics/ofGraphics/#!show_ofSetBackgroundAuto
+ 
 */
 
 //--------------------------------------------------------------
