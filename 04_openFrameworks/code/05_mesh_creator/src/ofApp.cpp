@@ -14,12 +14,12 @@
 
  TODO: Implement the above example with openFrameworks
  
- Checkout the
- 
- 
- https://openframeworks.cc/documentation/graphics/ofGraphics/#!show_ofSetBackgroundAuto
- 
-*/
+ Some hints:
+  - Check out ofBackgroundSetAuto
+  - Checkout the graphics script
+  - Try to figure out how the coordinate systems differ ()"You will not need the translate-call in openframeworks")
+
+  */
 
 //--------------------------------------------------------------
 void ofApp::setup(){
