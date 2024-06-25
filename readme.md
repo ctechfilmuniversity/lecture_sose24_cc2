@@ -87,7 +87,7 @@ For CTech students there will be a grade. The grade will be based on the points 
       * Object-oriented system design (2 pts)
       * Use of an SDK (i.e., openFrameworks) (2 pt)
       * Code must be clean, application must built and run (2 pts)
-      * Own artistic idea or implementation of a pre-defined task (2 pts)
+      * Implementation of an own artistic idea or a pre-defined task (2 pts)
       * Documentation (2 pts)
         * Written description (md-file)
         * Video trailer (mp4, 30-90 secs max)
