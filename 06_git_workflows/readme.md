@@ -5,32 +5,23 @@ Anna Brauwers | anna.s.brauwers@filmuniversitaet.de | Film University Babelsberg
 
 ---
 
-# Object-Oriented Programming
+# Git Workflows
 
-This session of Creative Coding II has the following outline
+In this session of Creative Coding II, we will take a small detour to recap and review Git. In particular, we will do several exercises to illustrate and understand the different concepts of Git's version control, such as
 
-- Introducing object-oriented programming with C++
-- Understanding the key concepts of OOP with a focus on
-  - Encapsulation
-  - Abstraction
-- Deeper understanding of classes, objects and instance in C++
+- the difference between HEAD, main, origin/main, and remotes/origin/main
+- how to branch off and merge back in
+- the difference between staging and commits
+- Github Desktop vs Git in VSCode vs Git on the command line
+- Git log and git history 
 
-Students will learn about
+## Exercises
 
-- Object-oriented programming in C++
-- Classes, objects, and how to use them in the code
-- Constructors and destructors
-- Public and private access levels
+Exercises will be presented and conducted in class. For an additional exercise, fork the newly created Snake Game branch
 
-Practical exercises will be about
+- https://github.com/abrennec/cc2_snake_game_dev/
 
-- Reviewing the last exercises
-- Short deep dive into collaborative programming with Git
-- The snake game
+## Further Resources
 
-Session materials
-
-- [Script: Object-oriented programming](./object_oriented.md)
-- [Practice: Coding examples and exercises](./code/)
-- [Additional materials](./additional_material/)
-
+- [Git book](https://git-scm.com/book/de/v2)
+- [Git branching](https://learngitbranching.js.org/?locale=de_DE)
