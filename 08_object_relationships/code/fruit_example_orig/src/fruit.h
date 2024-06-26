@@ -18,9 +18,6 @@ public:
     void printName(float x=350, float y=50);
     void drawFruit();
     
-//protected:
-    
-//    std::string overseas();
     
 private:
     std::string myName;

@@ -9,7 +9,8 @@
 
 banana::banana()
 :
-fruit("banana")
+fruit("banana"),
+myName{"specificBanana"}
 {
     
 }
@@ -21,3 +22,10 @@ fruit("banana")
 //    ofDrawSphere(45);
 //}
 //
+
+
+void banana::printName(float x, float y)
+{
+//    std::cout << myName << std::endl;
+    ofDrawBitmapString(myName, x, y);
+}

@@ -13,6 +13,5 @@ int main( ){
 
 	ofRunApp(window, make_shared<ofApp>());
 	ofRunMainLoop();
-
 }
 

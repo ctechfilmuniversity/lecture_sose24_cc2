@@ -9,7 +9,6 @@ anApple(apple::appleType::BRAEBURN),
 aBanana()
 {
     
-    
 }
 
 //--------------------------------------------------------------
@@ -28,23 +27,14 @@ void ofApp::draw(){
     aFruit.drawFruit();
     aFruit.printName();
     
-    anotherFruit.drawFruit();
-    anotherFruit.printName(350, 100);
-
-    anApple.drawFruit();
-    anApple.printName(350, 130);
-    
-    aBanana.drawFruit();
-    aBanana.printName(250, 160);
-    
-//    aFruitPtr = &aFruit;
-//    aFruitPtr->printName(350, 210);
-//    aFruitPtr = &anotherFruit;
-//    aFruitPtr->printName(350, 240);
-//    aFruitPtr = &anApple;
-//    aFruitPtr->printName(350, 270);
-//    aFruitPtr = &aBanana;
-//    aFruitPtr->printName(350, 300);
+//    anotherFruit.drawFruit();
+//    anotherFruit.printName(50, 80);
+//
+//    anApple.drawFruit();
+//    anApple.printName(50, 110);
+//    
+//    aBanana.drawFruit();
+//    aBanana.printName(50, 120);
     
 }
 

@@ -26,22 +26,13 @@ void fruit::printName(float x, float y)
     ofDrawBitmapString(myName, x, y);
 }
 
-// Use of overseas() function inside of fruit class:
-//void fruit::printOrigin() {
-//
-//    std::cout << "FRUIT's origin is " + overseas() << std::endl;
-//}
+
 
 void fruit::drawFruit() {
     
     ofNoFill();
     ofSetColor(255, 155, 55);
-    ofTranslate(250, 150);
+    ofTranslate(150, 150);
     ofDrawBox(45);
 }
 
-//// Definition of overseas() function inside of fruit class:
-//std::string fruit::overseas() {
-//
-//    return (".. I am from a land down under ..");
-//}
