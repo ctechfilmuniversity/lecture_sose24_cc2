@@ -13,6 +13,8 @@ myName{"fruit"}
     
 }
 
+
+
 fruit::fruit(std::string theName)
 :
 myName{theName}
@@ -20,9 +22,10 @@ myName{theName}
     
 }
     
+
 void fruit::printName(float x, float y)
 {
-//    std::cout << myName << std::endl;
+    //    std::cout << myName << std::endl;
     ofDrawBitmapString(myName, x, y);
 }
 
@@ -30,9 +33,11 @@ void fruit::printName(float x, float y)
 
 void fruit::drawFruit() {
     
+    ofPushMatrix();
     ofNoFill();
     ofSetColor(255, 155, 55);
-    ofTranslate(150, 150);
+    ofTranslate(150, 250);
     ofDrawBox(45);
+    ofPopMatrix();
 }
 

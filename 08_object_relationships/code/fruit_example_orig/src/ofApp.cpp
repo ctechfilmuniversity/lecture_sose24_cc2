@@ -27,14 +27,18 @@ void ofApp::draw(){
     aFruit.drawFruit();
     aFruit.printName();
     
-//    anotherFruit.drawFruit();
-//    anotherFruit.printName(50, 80);
-//
-//    anApple.drawFruit();
-//    anApple.printName(50, 110);
+    anotherFruit.drawFruit();
+    anotherFruit.printName(50, 80);
+
+    anApple.drawFruit();
+    anApple.printName(50, 110);
 //    
-//    aBanana.drawFruit();
-//    aBanana.printName(50, 120);
+    aBanana.drawFruit();
+    aBanana.printName(50, 120);
+    
+    // drawFruit
+    // protected
+    // polymorphism
     
 }
 

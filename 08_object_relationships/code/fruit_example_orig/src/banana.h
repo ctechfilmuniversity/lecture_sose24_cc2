@@ -15,8 +15,9 @@ public:
     banana(); // default constructor
     void printName(float x, float y);
     
+    void drawFruit();
+    
 private:
-    // no private declarations yet
     
     std::string myName;
 };

@@ -21,4 +21,6 @@ public:
     
 private:
     std::string myName;
+    
+    int calculate;
 };

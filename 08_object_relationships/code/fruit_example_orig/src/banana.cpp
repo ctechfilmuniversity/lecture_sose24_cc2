@@ -14,14 +14,16 @@ myName{"specificBanana"}
 {
     
 }
-//
-//void banana::drawFruit() {
-//    
-//    ofTranslate(150,250);
-//    ofSetColor(255,255,0);
-//    ofDrawSphere(45);
-//}
-//
+
+void banana::drawFruit() {
+    
+    ofPushMatrix();
+    ofTranslate(350,250);
+    ofSetColor(255,255,0);
+    ofDrawSphere(45);
+    ofPopMatrix();
+}
+
 
 
 void banana::printName(float x, float y)
