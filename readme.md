@@ -7,21 +7,21 @@ Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *
 
 Creative Coding II -- Introduction to C++ & openFrameworks
 
-- [Overview of the Course](#overview-of-the-course)
-  - [Organization](#organization)
-  - [Course Description](#course-description)
-  - [Method of Instruction](#method-of-instruction)
-  - [Syllabus](#syllabus)
-  - [Evaluation and Grading](#evaluation-and-grading)
-- [Communication \& Materials](#communication--materials)
-  - [Important Note for Non-CTechies](#important-note-for-non-ctechies)
-- [Assignments](#assignments)
-- [Literature \& Resources](#literature--resources)
-  - [Recommended Readings](#recommended-readings)
-    - [Books](#books)
-      - [Creative Coding](#creative-coding)
-      - [C/C++](#cc)
-      - [Software Design](#software-design)
+1. [Overview of the Course](#overview-of-the-course)
+   1. [Organization](#organization)
+   2. [Course Description](#course-description)
+   3. [Method of Instruction](#method-of-instruction)
+   4. [Syllabus](#syllabus)
+   5. [Evaluation and Grading](#evaluation-and-grading)
+2. [Communication \& Materials](#communication--materials)
+   1. [Important Note for Non-CTechies](#important-note-for-non-ctechies)
+3. [Assignments](#assignments)
+4. [Literature \& Resources](#literature--resources)
+   1. [Recommended Readings](#recommended-readings)
+      1. [Books](#books)
+         1. [Creative Coding](#creative-coding)
+         2. [C/C++](#cc)
+         3. [Software Design](#software-design)
 
 ---
 
@@ -76,19 +76,19 @@ For CTech students there will be a grade. The grade will be based on the points 
 ### Grade Breakdown <!-- omit in toc -->
 
 
-* **50% - Homework assignments (10 pts required)**
+* **50% - Homework assignments**
   * There will be 4 homework assignments that can be worked on individually or in a group (work distribution must be clearly defined by the group!)
   * For each submitted assignment, you can collect 3 points.
   * **Deadline**: You can submit session assignments up until July 31st. For late submissions, the total points will be reduced by 15%.
-* **50% - Final assignment (10 pts required)**
+* **50% - Final assignment**
   * The final assignment will be the development of a C++ application, you can collect 10 points for the final assignment.
   * **Deadline**: You can submit session assignments up until September 30th. For late submissions, the total points will be reduced by 15%.
   * **Requirements and distribution**:
-      * Object-oriented system design (2 pts)
-      * Use of an SDK (i.e., openFrameworks) (2 pt)
-      * Code must be clean, application must built and run (2 pts)
-      * Implementation of an own artistic idea or a pre-defined task (2 pts)
-      * Documentation (2 pts)
+      * Object-oriented system design
+      * Use of an SDK (i.e., openFrameworks) 
+      * Code must be clean, application must built and run 
+      * Implementation of an own artistic idea or a pre-defined task 
+      * Documentation
         * Written description (md-file)
         * Video trailer (mp4, 30-90 secs max)
 
