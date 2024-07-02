@@ -81,7 +81,7 @@ For CTech students there will be a grade. The grade will be based on the points 
   * For each submitted assignment, you can collect 3 points.
   * **Deadline**: You can submit session assignments up until July 31st. For late submissions, the total points will be reduced by 15%.
 * **50% - Final assignment**
-  * The final assignment will be the development of a C++ application, you can collect 10 points for the final assignment.
+  * The final assignment will be the development of a C++ application, you can collect 12 points for the final assignment.
   * **Deadline**: You can submit session assignments up until September 30th. For late submissions, the total points will be reduced by 15%.
   * **Requirements and distribution**:
       * Object-oriented system design
