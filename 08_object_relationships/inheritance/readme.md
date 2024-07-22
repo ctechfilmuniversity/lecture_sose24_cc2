@@ -2,13 +2,10 @@
 title: Creative Coding II
 author: Angela Brennecke
 affiliation: Film University Babelsberg KONRAD WOLF
-date: Summer term 20
 ---   -->
-**Creative Coding II - Summerterm 20**
+**Creative Coding II**
 
 Prof. Dr. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
-
-Last Update: 05/31/20
 
 ---
 
@@ -67,7 +64,7 @@ Composition is fundemantal when starting to program object-oriented; inheritance
 
 Inheritance models the **is-a** relationship between objects as illustrated in the following Diagram:
 
-![inheritance](assets/inheritance.png)
+![inheritance](../imgs/inheritance.png)
 
 As you can see on the left, the shape class serves as base class from which more specific classes are inherited, all of them **being a** certain kind of shape. The same is true for the right side: The fruit class specifies the general features of a fruit, whatever this might be, and has two specific fruits inherit these features, i.e., apple and banana. In C++, inheritance is expressed by the use of the ":" following the base class that is being derived from. 
 
@@ -219,7 +216,7 @@ As such, inheritance typically models hierarchical relationships that **show a p
   
 The derived class inherits all attributes and functionality of its base class — without access to private base members. See the following Figure for an illustration:
 
-![inheritance](assets/vererbung_v1_ohne_code.png)
+![inheritance](../imgs/vererbung_v1_ohne_code.png)
 *Copyright: Franziska Paetzold*
 
 The *Animal* class is a base class that provides two public member variables and two member functions. All of them are inherited by the derived classes and can be used and accessed by the objects *Wild Animal* and *Pet*. In addition, the derived classes define their own specific member variables and functions which can only be used and accessed by themselves.

@@ -2,13 +2,11 @@
 title: Creative Coding II
 author: Angela Brennecke
 affiliation: Film University Babelsberg KONRAD WOLF
-date: Summer term 23
 ---   -->
 
-**Creative Coding II - Summerterm 23**
+**Creative Coding II**
 
 Lecturer: Prof. Dr.-Ing. Angela Brennecke | a.brennecke@filmuniversitaet.de   
-Lecturer: Gastprof. Dr. Michael Witt | m.witt@filmuniversitaet.de  
 
 ---- 
 
