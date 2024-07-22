@@ -9,7 +9,7 @@ Anna Brauwers | anna.brauwers@filmuniversitaet.de | Film University Babelsberg *
 
 This session of Creative Coding II has the following outline
 
-- Object relationsships in C++
+- Object relationships in C++
 - Inheritance: From general to specific
 - Implementation details
   - access levels

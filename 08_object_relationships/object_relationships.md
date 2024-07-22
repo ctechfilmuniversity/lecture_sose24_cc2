@@ -4,11 +4,9 @@ author: Angela Brennecke
 affiliation: Film University Babelsberg KONRAD WOLF
 date: Summer term 20
 ---   -->
-**Creative Coding II - Summerterm 20**
+**Creative Coding II**
 
 Prof. Dr. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film University Babelsberg *KONRAD WOLF*
-
-Last Update: 05/31/20
 
 ---
 
