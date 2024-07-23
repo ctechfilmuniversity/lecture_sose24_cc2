@@ -37,4 +37,4 @@ In your teams, create branches per developer and distribute the tasks. Work on y
 
 ### Snake Game Ctd.
 
-- TBD in class
+- Checkout the [homework assignment](../assignments/readme.md)
