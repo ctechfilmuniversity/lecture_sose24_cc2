@@ -1,0 +1,196 @@
+﻿  ascii.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(94,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(94,21): error C2146: syntax error: missing ';' before identifier 'MMVERSION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(102,20): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(102,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(112,21): error C3646: 'ms': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(112,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(113,21): error C3646: 'sample': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(113,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(114,21): error C3646: 'cb': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(114,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(115,21): error C3646: 'ticks': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(115,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(120,21): error C3646: 'hour': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(120,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(121,21): error C3646: 'min': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(121,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(122,21): error C3646: 'sec': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(122,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(123,21): error C3646: 'frame': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(123,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(124,21): error C3646: 'fps': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(124,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(125,21): error C3646: 'dummy': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(125,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(127,21): error C3646: 'pad': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(127,24): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(127,27): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(134,19): error C3646: 'songptrpos': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(134,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,26): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,41): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,41): error C2377: 'FAR': redefinition; typedef cannot be overloaded with any other symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(102): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(275,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(275,16): error C2065: 'HDRVR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,24): error C2146: syntax error: missing ')' before identifier 'DRVCALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,24): error C2146: syntax error: missing ';' before identifier 'DRVCALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,35): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,37): error C2065: 'HDRVR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297,43): error C2146: syntax error: missing ')' before identifier 'hdrvr'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,25): error C2378: 'DRVCALLBACK': redefinition; symbol cannot be overloaded with a typedef
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297): message : see declaration of 'DRVCALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,21): error C2146: syntax error: missing ';' before identifier 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,25): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,21): error C2086: 'int FAR': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(299,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(301,25): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(301,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(301,25): error C2378: 'DRVCALLBACK': redefinition; symbol cannot be overloaded with a typedef
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297): message : see declaration of 'DRVCALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(301,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(36,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(36,17): error C2146: syntax error: missing ';' before identifier 'MCIERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(44,24): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(44,24): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(44,15): error C2371: 'CALLBACK': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(297): message : see declaration of 'CALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(44,34): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(44,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(51,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(50,1): error C2146: syntax error: missing ';' before identifier 'MCIERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(61,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(59,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(60,1): error C2146: syntax error: missing ';' before identifier 'MCIERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(76,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(74,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(75,1): error C2146: syntax error: missing ';' before identifier 'MCIERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(86,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(84,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(85,1): error C2146: syntax error: missing ';' before identifier 'MCIERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(101,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(99,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(100,1): error C2146: syntax error: missing ';' before identifier 'MCIDEVICEID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(108,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(106,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(107,1): error C2146: syntax error: missing ';' before identifier 'MCIDEVICEID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(120,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(118,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(119,1): error C2146: syntax error: missing ';' before identifier 'MCIDEVICEID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(128,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(126,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(127,1): error C2146: syntax error: missing ';' before identifier 'MCIDEVICEID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(141,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(139,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(140,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(150,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(148,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(149,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(169,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(170,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(200,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(198,1): error C2086: 'int DECLSPEC_IMPORT': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(49): message : see declaration of 'DECLSPEC_IMPORT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(199,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(495,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(495,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(496,47): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(496,43): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(496,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(502,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(502,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(504,16): error C3646: 'lpstrDeviceType': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(504,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(505,16): error C3646: 'lpstrElementName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(505,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(506,16): error C3646: 'lpstrAlias': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(506,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(509,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(509,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(511,16): error C3646: 'lpstrDeviceType': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(511,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(512,16): error C3646: 'lpstrElementName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(512,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(513,16): error C3646: 'lpstrAlias': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(513,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(538,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(538,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(541,41): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(541,37): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(541,58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(545,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(545,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(547,41): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(547,37): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(547,58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(551,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(551,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(552,17): error C3646: 'dwReturn': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(552,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(555,45): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(555,41): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(555,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(561,15): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(561,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(562,15): error C3646: 'lpstrReturn': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(562,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(566,15): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(566,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(567,15): error C3646: 'lpstrReturn': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(567,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(588,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(588,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(591,53): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(591,49): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(591,77): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(597,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(597,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(598,17): error C3646: 'lpstrReturn': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(598,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(604,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(604,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(605,17): error C3646: 'lpstrReturn': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(605,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(632,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(632,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(635,39): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(635,35): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(635,55): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(639,17): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(639,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(642,17): error C3646: 'hwndBreak': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(642,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(649,43): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(649,39): error C2371: 'FAR': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mmsyscom.h(137): message : see declaration of 'FAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(649,62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(655,18): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(655,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(656,18): error C3646: 'lpfilename': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(656,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(659,18): error C3646: 'dwCallback': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(659,28): fatal error C1003: error count exceeds 100; stopping compilation
