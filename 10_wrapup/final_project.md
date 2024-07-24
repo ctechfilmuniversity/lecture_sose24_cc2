@@ -7,7 +7,7 @@ Prof. Dr.-Ing. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film Univers
 
 # Final Project CC2
 
-* **Final assignment**: The final assignment will be the development of an interactive AV C++ application that uses the techniques and concepts presented during the lecture. The application can be an extension of a class project/homework assignment or an individual idea (suggestions will be presented at the end of the lecture). You can collect **12 points in total** for the final assignment. The application should show that you can 
+* **Final assignment**: The final assignment will be the development of an interactive AV C++ application that uses the techniques and concepts presented during the lecture. The application can be an extension of a class project/homework assignment or an individual idea (suggestions will be presented at the end of the lecture). You can collect **12 points in total** inlcuding two bonus points for the final assignment. The application should show that you can 
   * translate a concept into an object oriented design and implementation
   * understand how to use and work with types
   * understand different levels of abstraction in code as well as in writing code
@@ -19,7 +19,7 @@ Prof. Dr.-Ing. Angela Brennecke | a.brennecke@filmuniversitaet.de | Film Univers
     * Documentation (2 pts)
       * Written description (md-file)
       * Video trailer (mp4, 30-90 secs max)
-    * Quality (2 pts)
+    * Bonus (2 pts)
 * **Submission deadline**: 30th September '24 -- For late submissions, the total points will be reduced by 15%.
 * **Scope and Teamwork:** If you would like to implement your own game, you can send me a short outline of what you want to develop until 31 July for feedback. If you would like to work in a team, please let me know whom you will work with and make sure that every team member's work can be distinguished (i.e., via use of Git branches and in the documentation).
 
